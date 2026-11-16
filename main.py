@@ -4,3 +4,4 @@ caps = content.upper()
 
 print(content)
 print(caps)
+print('bye')
